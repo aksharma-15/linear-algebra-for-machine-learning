@@ -66,5 +66,5 @@ To cement the mathematical concepts, the notebook explores an end-to-end automat
     I am always open to discussing Machine Learning, Data Science, and innovative AI solutions.
     [LinkedIn](www.linkedin.com/in/abhay-kumar-sharma-a22a94171
 
- "Connect")
+)
 
